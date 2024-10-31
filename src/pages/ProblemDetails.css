@@ -1,0 +1,20 @@
+/* src/pages/ProblemDetails.css */
+
+.problem-details-container {
+    display: flex;
+    height: 100vh;
+  }
+  
+  .problem-info {
+    width: 50%;
+    padding: 20px;
+    overflow-y: auto;
+    border-right: 1px solid #ddd;
+    background-color: #f8f8f8;
+  }
+  
+  .code-editor {
+    width: 50%;
+    background-color: #1e1e1e;
+  }
+  
